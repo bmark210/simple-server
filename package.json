@@ -1,0 +1,17 @@
+{
+  "name": "simple-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
